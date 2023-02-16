@@ -101,9 +101,6 @@ GPL-3.0-only
 @balancer-labs/typechain
 GPL-3.0-only
 
-@ensdomains/eth-ens-namehash
-ISC
-
 @ethereumjs/common
 MIT
 The MIT License (MIT)
