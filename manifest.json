@@ -1,0 +1,14 @@
+{
+    "name": "Bunni",
+    "short_name": "Bunni",
+    "description": "Bunni is a liquidity engine for Uniswap v3",
+    "icons": [
+      {
+        "src": "assets/img/bunni-logo.png",
+        "type": "image/png",
+        "sizes": "any",
+        "purpose": "any"
+      }
+    ]
+  }
+  
